@@ -8,6 +8,13 @@
 🇪🇸 Soy una **_Analista en TI_** y **_Diseñadora Gráfica_** interesada en el desarrollo de software, actualmente profundizando mis conocimientos mediante proyectos personales y académicos!
 
 ---
+#### Skills 🖥️
+
+- <ins>Frontend Development:</ins> HTML, JavaScript, CSS, Bootstrap, Ionic Framework  
+- <ins>Backend Development & Databases:</ins> C#, SQL  
+- <ins>Graphic Design:</ins> Photoshop, Illustrator, InDesign, After Effects
+
+---
 #### My links 📎
 
 👤 <a href="https://www.linkedin.com/in/catalina-gordano/">LinkedIn</a>  
