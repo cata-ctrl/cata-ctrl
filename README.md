@@ -3,9 +3,9 @@
 ---  
 #### Hello! / Hola! ⭐
 
-🇬🇧 I'm an **_IT Analyst_** and **_Graphic Designer_** interested in software development, currently expanding my knowledge through personal and academic projects! 
+🇬🇧 I'm an **_IT Analyst_** and **_Graphic Designer_** interested in software development, currently expanding my knowledge through personal and academic projects. 
 
-🇪🇸 Soy una **_Analista en TI_** y **_Diseñadora Gráfica_** interesada en el desarrollo de software, actualmente profundizando mis conocimientos mediante proyectos personales y académicos!
+🇪🇸 Soy una **_Analista en TI_** y **_Diseñadora Gráfica_** interesada en el desarrollo de software, actualmente profundizando mis conocimientos mediante proyectos personales y académicos.
 
 ---
 #### Skills 🖥️
