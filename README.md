@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stack+Sans+Headline&weight=300&letterSpacing=0.07rem&duration=3000&pause=400&color=B080A6&vCenter=true&multiline=true&width=435&height=70&lines=Catalina+Gordano;IT+Analyst+and+Graphic+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stack+Sans+Headline&weight=300&letterSpacing=0.07rem&duration=3500&pause=300&color=B080A6&vCenter=true&multiline=true&width=435&height=70&lines=Catalina+Gordano;IT+Analyst+and+Graphic+Designer)](https://git.io/typing-svg)
 
 ---  
 #### Hello! / Hola! ⭐
