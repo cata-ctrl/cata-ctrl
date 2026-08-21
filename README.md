@@ -11,7 +11,7 @@
 #### Skills 🖥️
 
 - <ins>Frontend Development:</ins> HTML, JavaScript, CSS, Bootstrap 
-- <ins>Backend Development & Databases:</ins> C#, SQL  
+- <ins>Backend Development & Databases:</ins> C#, Java, SQL  
 - <ins>Graphic Design:</ins> Photoshop, Illustrator, InDesign, After Effects
 
 ---
