@@ -21,4 +21,4 @@
 🎨 <a href="https://www.behance.net/catagordano">Behance</a>
 
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=cata-ctrl&layout=compact&langs_count=5&theme=dark&v=2)](https://github-stats-extended.vercel.app/api/top-langs?username=cata-ctrl&layout=compact&langs_count=5&theme=dark&v=2)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=cata-ctrl&layout=compact&langs_count=5&theme=transparent&hide_border=true&title_color=B080A6&text_color=C5AFC0)](https://github-stats-extended.vercel.app/api/top-langs?username=cata-ctrl&layout=compact&langs_count=5&theme=transparent&hide_border=true&title_color=B080A6&text_color=C5AFC0)
